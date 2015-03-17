@@ -1,0 +1,9 @@
+*~
+*.class
+*.swp
+#*.zip
+#*.jar
+#findbugs*
+#checkstyle*
+#bin/*
+script.sh
