@@ -1,13 +1,14 @@
-# Programming Assigments from Coursera's Algorithms Part 1 Course
+# Programming Assignments from Coursera's Algorithms Part 1 Course
 
 ## Usage
 
-> First run the script to download the required libraries, wrappers and programs used in the assignments.
-> ```bash
-> ./script.sh
-> ```
+First run the script to download the required libraries, wrappers and programs used in the assignments.
+```bash
+./script.sh
+```
 
-Add the executables to the path environment variable
+Add the executables to the path environment variable (to .bashrc if you want
+to keep it between reboots) 
 
 ``` bash
 export PATH=$PATH:$(pwd)/bin

@@ -1,9 +1,10 @@
 *~
 *.class
 *.swp
-#*.zip
-#*.jar
-#findbugs*
-#checkstyle*
-#bin/*
+# checkstyle.zip
+# findbugs.zip
+*.jar
+findbugs*
+checkstyle*
+bin/*
 script.sh
